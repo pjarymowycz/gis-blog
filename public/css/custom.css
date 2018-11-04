@@ -1,9 +1,9 @@
 .sidebar {
-  opacity: 0.6;
+  opacity: 0.8;
 }
 
 .sidebar:hover {
-  opacity: 0.8;
+  opacity: 0.6;
 }
 
 .sidebar-logo {
