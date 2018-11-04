@@ -23,3 +23,6 @@ author:
 
 # Custom vars
 version:             1.0.1
+
+github:
+  repo:              https://github.com/pjarymowycz/pjarymowycz.github.io
