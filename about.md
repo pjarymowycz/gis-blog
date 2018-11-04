@@ -4,11 +4,9 @@ title: About this Site
 ---
 
 <p class="message">
-  Hey there!
-  <p>
-    Welcome to my blog! I use this site for posting stuff that interests be, particularly about GIS and photography.
-    This site was created with the [Jekyll](http://jekyllrb.com) theme [Lanyon](http://lanyon.getpoole.com).
-  </p>
+  Hey there!</br>
+  Welcome to my blog! I use this site for posting stuff that interests be, particularly about GIS and photography.
+  This site was created with the [Jekyll](http://jekyllrb.com) theme [Lanyon](http://lanyon.getpoole.com).
 </p>
 
 ## About Lanyon
