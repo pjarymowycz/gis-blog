@@ -24,5 +24,9 @@
 }
 
 .contact-list a {
-  margin: 2px;
+  margin: 5px;
+}
+
+.contact-list a:hover {
+  text-decoration: none;
 }
