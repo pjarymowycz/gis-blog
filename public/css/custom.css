@@ -18,6 +18,6 @@
   margin: 0 auto;
 }
 
-#contact-list {
-  font-size: 2em;
+.contact-list {
+  font-size: 2rem;
 }
