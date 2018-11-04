@@ -8,7 +8,7 @@ relative_permalinks: false
 title:               Paul Jarymowycz
 tagline:             'A GIS Professional and Photography Enthusiast in Brooklyn, NY'
 description:         'I am a GIS professional and photography enthusiast with a background in IT, Teaching, and Environmental and Mechanical Engineering.'
-url:                 https://pjarymowycz.github.io/
+url:                 https://pjarymowycz.github.io
 baseurl:             https://pjarymowycz.github.io/
 paginate:            5
 
