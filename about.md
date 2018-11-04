@@ -12,6 +12,7 @@ title: About
 
 I use this site for posting stuff that interests be, particularly about GIS and photography.
 This site was created with the [Jekyll](http://jekyllrb.com) theme [Lanyon](http://lanyon.getpoole.com).
+Some tips and design tricks were adapted from [this post by Kyle Stratis](http://kylestratis.com/2015/05/05/blog-setup-pt2/).
 
 ## About Lanyon
 
