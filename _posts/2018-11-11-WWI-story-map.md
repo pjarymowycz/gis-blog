@@ -43,4 +43,6 @@ it.
 Below is a story map detailing the experiences of one
 soldier.
 
+{% raw %}
 <iframe width="560" height="315" src="http://www.arcgis.com/apps/MapJournal/index.html?appid=d36f6f26b831456d9401e33875d6def2" frameborder="0" scrolling="no"></iframe>
+{% endraw %}
